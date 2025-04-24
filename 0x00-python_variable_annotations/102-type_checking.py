@@ -2,7 +2,7 @@
 """
 Type-checked zoom_array function.
 """
-from typing import Tuple, List
+from typing import List, Tuple
 
 
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
