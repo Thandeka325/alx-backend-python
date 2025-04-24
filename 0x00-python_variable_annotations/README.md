@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/ed2b4df4-2336-4ffa-ab76-22764928352c)
 
-This project is about python variable annotation and how they can be used.
+This project is about Python variable annotation and how they can be used.
 
 __Resources__
 
