@@ -2,6 +2,8 @@
 
 This project introduces Python async comprehensions and how they can be used.
 
+![Uploading image.png…]()
+
 __Resources__
 
 - [PEP 530 – Asynchronous Comprehensions](https://peps.python.org/pep-0530/)
