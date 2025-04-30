@@ -2,6 +2,8 @@
 
 This project introduces Python async comprehensions and how they can be used.
 
+![image](https://github.com/user-attachments/assets/9b82ed68-6eb8-4efd-bb55-da9eef7e4473)
+
 __Resources__
 
 - [PEP 530 – Asynchronous Comprehensions](https://peps.python.org/pep-0530/)
